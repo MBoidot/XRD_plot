@@ -1,6 +1,6 @@
 # XRD Plot Interactive
 
-This tool allows interactive visualization of `.xy` files (2θ - intensity format) from XRD measurements. Features include normalization, moving average smoothing, Y-offset stacking, and export to high-quality figures (PNG, SVG, PDF).
+This tool allows interactive visualization of `.xy` files (2θ - intensity format) from XRD measurements. Features include normalization, moving average smoothing, Y-offset stacking, and export to high-quality figures.
 
 ## Features
 
@@ -16,5 +16,12 @@ This tool allows interactive visualization of `.xy` files (2θ - intensity forma
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/xrd-plot-interactive.git
-cd xrd-plot-interactive
+git clone https://github.com/MBoidot/XRD_plot.git
+
+2. execute the main script plot_data_interactive.py
+
+3. select one or several xy files
+
+4. adjust the sliders to your needs
+
+5. save your image
