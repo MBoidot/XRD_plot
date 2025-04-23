@@ -17,11 +17,13 @@ This tool allows interactive visualization of `.xy` files (2θ - intensity forma
 
 ```bash
 git clone https://github.com/MBoidot/XRD_plot.git
-
+```
 2. execute the main script plot_data_interactive.py
 
 3. select one or several xy files
 
 4. adjust the sliders to your needs
+
+![Alt text](/image.png)
 
 5. save your image
